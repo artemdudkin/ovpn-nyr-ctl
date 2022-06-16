@@ -1,18 +1,11 @@
 # ovpn-nyr-ctl
 Proof-of-concept web server to control OpenVPN users (using [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install)).
 
-## Installation
+## Installation and usage
 
-```
-npm install ovpn-nyr-ctl
-```
-
-## Usage
-
-```
-node server.js
-```
-
+1. Download project and copy it to server where OpenVPN runs.
+2. `npm i`
+3. `node server.js` (or you can use PM2 process manager `pm2 start server.js --name ovpn`)
 
 ## API
 
