@@ -1,5 +1,5 @@
 # ovpn-nyr-ctl
-Proof-of-concept web server to control vnp users (using [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install)).
+Proof-of-concept web server to control OpenVPN users (using [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install)).
 
 ## Installation
 
