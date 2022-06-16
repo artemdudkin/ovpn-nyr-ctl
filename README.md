@@ -32,7 +32,7 @@ Removes `*.ovpn` key from `KEY_STORAGE_FOLDER`.
 Returns prefix that used to distinguish users added by this program (cannot remove other users)
 
 ## Configuration
-
+`SERVER_PORT`
 `NAME_PREFIX`
 `KEY_STORAGE_FOLDER`
 `KEY_STORAGE_URL`
