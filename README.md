@@ -4,7 +4,7 @@ Proof-of-concept web server to control OpenVPN users (using [Nyr/openvpn-install
 ## Installation
 
 ```
-npm install --save-dev ovpn-nyr-ctl
+npm install ovpn-nyr-ctl
 ```
 
 ## Usage
