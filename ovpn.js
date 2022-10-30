@@ -180,8 +180,8 @@ function get() {
       }
     }).then(() => {
       reject();
-    }).catch(() => {
-      reject();
+    }).catch(err => {
+      reject(err);
     })
   })
 }

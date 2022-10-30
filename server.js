@@ -67,6 +67,8 @@ app.all('/get', function(req, res, next) {
     res.end( JSON.stringify(ret));
   })
   .catch( err => {
+    console.log("ERROR", err);
+    console.log('>> 500');
     res.status(500).end();
   })
 })
